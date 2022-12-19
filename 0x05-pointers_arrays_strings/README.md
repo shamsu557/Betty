@@ -1,0 +1,1 @@
+array_pointer_and_string
